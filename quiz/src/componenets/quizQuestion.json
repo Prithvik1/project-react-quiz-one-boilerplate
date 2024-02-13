@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "optionA": "Seoul",
+        "optionB": "Beijing",
+        "optionC": "Tokyo",
+        "optionD": "Bangkok",
+        "answer": "Tokyo"
+    },
+  
+    {
+        "question": "Who is known as the 'Father of Physics'?",
+        "optionA": "Isaac Newton",
+        "optionB": "Albert Einstein",
+        "optionC": "Galileo Galilei",
+        "optionD": "Niels Bohr",
+        "answer": "Galileo Galilei"
+    },
+  
+    {
+        "question": "What is the largest mammal on Earth?",
+        "optionA": "Elephant",
+        "optionB": "Blue Whale",
+        "optionC": "Giraffe",
+        "optionD": "Hippopotamus",
+        "answer": "Blue Whale"
+    },
+  
+    {
+        "question": "In which year did the Titanic sink?",
+        "optionA": "1912",
+        "optionB": "1920",
+        "optionC": "1935",
+        "optionD": "1942",
+        "answer": "1912"
+    },
+  
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "optionA": "J.K. Rowling",
+        "optionB": "Harper Lee",
+        "optionC": "Ernest Hemingway",
+        "optionD": "Jane Austen",
+        "answer": "Harper Lee"
+    },
+  
+    {
+        "question": "What is the currency of Brazil?",
+        "optionA": "Peso",
+        "optionB": "Ruble",
+        "optionC": "Real",
+        "optionD": "Euro",
+        "answer": "Real"
+    },
+  
+    {
+        "question": "What is the largest ocean on Earth?",
+        "optionA": "Atlantic Ocean",
+        "optionB": "Indian Ocean",
+        "optionC": "Arctic Ocean",
+        "optionD": "Pacific Ocean",
+        "answer": "Pacific Ocean"
+    },
+  
+    {
+        "question": "Who discovered penicillin?",
+        "optionA": "Marie Curie",
+        "optionB": "Alexander Fleming",
+        "optionC": "Louis Pasteur",
+        "optionD": "Thomas Edison",
+        "answer": "Alexander Fleming"
+    },
+  
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "optionA": "Tomato",
+        "optionB": "Avocado",
+        "optionC": "Onion",
+        "optionD": "Cilantro",
+        "answer": "Avocado"
+    },
+  
+    {
+        "question": "In which year did the Berlin Wall fall?",
+        "optionA": "1985",
+        "optionB": "1989",
+        "optionC": "1993",
+        "optionD": "1997",
+        "answer": "1989"
+    }
+  ]
+  
